@@ -11,7 +11,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "gulp dev",
-    "build": "gulp build --option",
+    "build": "set NODE_OPTIONS=--openssl-legacy-provider & gulp build --option",
     "build-js": "webpack --config webpack.prod.js",
     "prettier": "prettier --write src ./*.js"
   },
