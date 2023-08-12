@@ -23,6 +23,8 @@
     "core-js": "^3.30.2",
     "eventemitter3": "^4.0.7",
     "graceful-fs": "^4.2.11",
+    "hexo-generator-json-content": "^4.2.3",
+    "hexo-wordcount": "^6.0.1",
     "instantsearch.js": "^4.56.1",
     "perfect-scrollbar": "^1.5.5",
     "qrcode-generator": "^1.4.4"
